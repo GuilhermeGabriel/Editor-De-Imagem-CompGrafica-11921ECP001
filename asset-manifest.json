@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Editor-De-Imagem-CompGrafica-11921ECP001/static/css/main.45998312.css",
+    "main.js": "/Editor-De-Imagem-CompGrafica-11921ECP001/static/js/main.cc39a985.js",
+    "index.html": "/Editor-De-Imagem-CompGrafica-11921ECP001/index.html",
+    "main.45998312.css.map": "/Editor-De-Imagem-CompGrafica-11921ECP001/static/css/main.45998312.css.map",
+    "main.cc39a985.js.map": "/Editor-De-Imagem-CompGrafica-11921ECP001/static/js/main.cc39a985.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45998312.css",
+    "static/js/main.cc39a985.js"
+  ]
+}
